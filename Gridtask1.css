@@ -1,0 +1,57 @@
+.box{
+     display: grid;
+     grid-template-columns: 1fr 1fr 1fr;
+     gap: 4px;
+}
+.a{
+    background-color: aqua;
+    padding: 40;
+    text-align: center;
+}
+.b{
+    background-color: blue;
+    padding: 40px;
+    text-align: center;
+
+}
+.c{
+    background-color: brown;
+    padding: 40px;
+    text-align: center;
+}
+.d{
+    background-color: rgb(223, 110, 185);
+    padding: 40px0;
+    text-align: center;
+}
+.d{
+    background-color: blueviolet;
+    padding: 40px;
+    text-align: center;
+}
+.e{
+    background-color: black;
+    padding: 40px;
+    text-align: center;
+}
+.f{
+    background-color: aquamarine;
+    padding: 40px;
+    text-align: center;
+}
+.g{
+    background-color: rgb(186, 186, 20);
+    padding: 40px;
+    text-align: center;
+}
+.h{
+    background-color: #0cde2f;
+    padding: 40px;
+    text-align: center;
+}
+.i{
+    background-color: blueviolet;
+    padding: 40px;
+    text-align: center;
+
+}
